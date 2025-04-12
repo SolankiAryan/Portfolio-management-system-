@@ -1,0 +1,5 @@
+mysql_host: localhost
+mysql_user: your_username
+mysql_password: your_password
+mysql_db: portfolio_management
+secret_key: secret_key_random_string_b3c8a91f7e2d65a4
